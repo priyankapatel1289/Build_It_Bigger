@@ -4,15 +4,6 @@ package com.udacity.gradle.builditbigger.backend;
 public class MyBean {
 
     private String myData;
-//    private JokesTellerJava jokesTellerJava; //TODO: 1
-//
-//    public MyBean() {
-//        jokesTellerJava = new JokesTellerJava();
-//    }
-//
-//    public String getJoke() {
-//        return jokesTellerJava.moreJokes();
-//    }
 
     public String getData() {
         return myData;
