@@ -30,7 +30,7 @@ public class MyEndpoint {
     }
 
     @ApiMethod(name = "tellJoke")
-    public MyBean tellJoke() {
+    public MyBean tellJoke() { //TODO 2
         MyBean response = new MyBean();
         String joke = JokesTellerJava.moreJokes();
         response.setData(joke);

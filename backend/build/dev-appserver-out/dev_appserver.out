@@ -1,19 +1,19 @@
-Jun 05, 2018 1:39:22 PM com.google.appengine.tools.development.SystemPropertiesManager setSystemProperties
+Jun 06, 2018 3:29:05 PM com.google.appengine.tools.development.SystemPropertiesManager setSystemProperties
 INFO: Overwriting system property key 'java.util.logging.config.file', value 'C:\Users\Priyanka\AppData\Local\Google\Cloud SDK\google-cloud-sdk\platform\google_appengine\google\appengine\tools\java\config\sdk\logging.properties' with value 'WEB-INF/logging.properties' from 'C:\Users\Priyanka\AndroidStudioProjects\ud867\FinalProject\backend\build\exploded-backend\WEB-INF\appengine-web.xml'
-2018-06-05 13:39:22.204:INFO::main: Logging initialized @365ms
-Jun 05, 2018 6:39:22 PM com.google.appengine.tools.development.IsolatedAppClassLoader checkWorkingDirectory
+2018-06-06 15:29:06.036:INFO::main: Logging initialized @915ms
+Jun 06, 2018 8:29:06 PM com.google.appengine.tools.development.IsolatedAppClassLoader checkWorkingDirectory
 WARNING: Your working directory, (C:\Users\Priyanka\.gradle\daemon\4.4) is not equal to your 
 web application root (C:\Users\Priyanka\AndroidStudioProjects\ud867\FinalProject\backend\build\exploded-backend)
 You will not be able to access files from your working directory on the production server.
 
-2018-06-05 13:39:22.530:INFO:oejs.Server:main: jetty-9.3.18.v20170406
-2018-06-05 13:39:24.950:INFO:oeja.AnnotationConfiguration:main: Scanning elapsed time=2054ms
-2018-06-05 13:39:25.253:INFO:oejsh.ContextHandler:main: Started c.g.a.t.d.j.DevAppEngineWebAppContext@4a07d605{/,file:///C:/Users/Priyanka/AndroidStudioProjects/ud867/FinalProject/backend/build/exploded-backend/,AVAILABLE}{C:\Users\Priyanka\AndroidStudioProjects\ud867\FinalProject\backend\build\exploded-backend}
-2018-06-05 13:39:25.264:INFO:oejs.AbstractConnector:main: Started NetworkTrafficSelectChannelConnector@34129c78{HTTP/1.1,[http/1.1]}{localhost:8888}
-2018-06-05 13:39:25.265:INFO:oejs.Server:main: Started @3426ms
-Jun 05, 2018 6:39:25 PM com.google.appengine.tools.development.AbstractModule startup
+2018-06-06 15:29:07.255:INFO:oejs.Server:main: jetty-9.3.18.v20170406
+2018-06-06 15:29:12.132:INFO:oeja.AnnotationConfiguration:main: Scanning elapsed time=2881ms
+2018-06-06 15:29:12.949:INFO:oejsh.ContextHandler:main: Started c.g.a.t.d.j.DevAppEngineWebAppContext@4a07d605{/,file:///C:/Users/Priyanka/AndroidStudioProjects/ud867/FinalProject/backend/build/exploded-backend/,AVAILABLE}{C:\Users\Priyanka\AndroidStudioProjects\ud867\FinalProject\backend\build\exploded-backend}
+2018-06-06 15:29:12.959:INFO:oejs.AbstractConnector:main: Started NetworkTrafficSelectChannelConnector@34129c78{HTTP/1.1,[http/1.1]}{localhost:8888}
+2018-06-06 15:29:12.960:INFO:oejs.Server:main: Started @7840ms
+Jun 06, 2018 8:29:12 PM com.google.appengine.tools.development.AbstractModule startup
 INFO: Module instance default is running at http://localhost:8888/
-Jun 05, 2018 6:39:25 PM com.google.appengine.tools.development.AbstractModule startup
+Jun 06, 2018 8:29:12 PM com.google.appengine.tools.development.AbstractModule startup
 INFO: The admin console is running at http://localhost:8888/_ah/admin
-Jun 05, 2018 1:39:25 PM com.google.appengine.tools.development.DevAppServerImpl doStart
+Jun 06, 2018 3:29:12 PM com.google.appengine.tools.development.DevAppServerImpl doStart
 INFO: Dev App Server is now running

@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class JokesTellerJava {
 
-    final static String[] JOKES_ARRAY = new String[]
+    private final static String[] JOKES_ARRAY = new String[]
             {
                     "1. This is a test joke",
                     "2. Another test joke",
